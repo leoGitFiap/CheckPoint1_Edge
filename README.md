@@ -47,3 +47,6 @@ Caso deseje controlar diretamente por porcentagem ao invés de usar o potenciôm
 Conclusão:
 
 Esse sistema simples de controle de iluminação por porcentagem com Arduino é versátil e pode ser aplicado em diversos projetos, como automação residencial, iluminação ajustável, ou até em displays visuais interativos. O uso de PWM torna o controle de brilho eficiente e direto.
+
+https://www.tinkercad.com/things/38jSfaiDiwa-cp1-sensorluminosidade
+https://youtu.be/IaTyqm_42HI
